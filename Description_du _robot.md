@@ -2,7 +2,7 @@
 
 #  🏷️ Nom du robot :  CHIPS
 
-## 👨‍💻👩‍💻 Équipe : 10 <br> 🗓️ Date : 1 Février 2025
+## 👨‍💻👩‍💻 Équipe : 10 <br> 🗓️ Date : 1er Février 2025
 
 # 👥 Membres de l'équipe <br>
 
