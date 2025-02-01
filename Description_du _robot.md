@@ -6,10 +6,10 @@
 
 # 👥 Membres de l'équipe <br>
 
-Alaa Kedara
-Haithem Tebib
-Jeremy Claude
-Mamadou Ly
+Alaa Kedara <br>
+Haithem Tebib <br>
+Jeremy Claude <br>
+Mamadou Ly <br>
 Paul-Erwin Koffi
 
 
